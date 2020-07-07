@@ -45,5 +45,5 @@ export const SubmitButton = styled.button.attrs({
 
     display: flex;
     justify-content: center;
-    align-itens: center;
+    align-items: center;
 `;
